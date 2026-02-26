@@ -2,3 +2,8 @@
 	path = syncoria/syncoria_payroll
 	url = git@github.com:syncoria/syncoria_payroll.git
 	branch = 18.0
+
+[submodule "syncoria/ssyncoria_payroll"]
+	path = syncoria/ssyncoria_payroll
+	url = git@github.com:syncoria/syncoria_payroll.git
+	branch = 18.0
