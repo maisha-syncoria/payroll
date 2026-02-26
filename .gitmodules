@@ -1,0 +1,4 @@
+[submodule "syncoria/syncoria_payroll"]
+	path = syncoria/syncoria_payroll
+	url = git@github.com:syncoria/syncoria_payroll.git
+	branch = 18.0
